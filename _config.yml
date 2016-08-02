@@ -1,0 +1,14 @@
+layout_spectrum: 0.7406998400110751
+typography_spectrum: 0.7258799746632576
+color:
+  brandStrength: 0.7454320795368403
+  lightness: 0.16491241590119898
+  saturation: 0.38334550452418625
+  rhythmicContrast: 0.5086969113908708
+  brandColors:
+    - '#004358'
+    - '#1F8A70'
+    - '#BEDB39'
+    - '#FFE11A'
+    - '#FD7400'
+name: SmartTax
