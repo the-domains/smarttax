@@ -11,16 +11,16 @@ collections:
       format: rss
       number: 10
 color:
-  saturation: 0.3833455045241863
-  brandStrength: 0.7510638
-  lightness: 0.164912415901199
+  saturation: 0.693617
+  brandStrength: 1
+  lightness: 0.9680851
   brandColors:
     - '#058441'
     - '#FEC327'
     - '#9C9413'
     - '#34751A'
     - '#7DB556'
-  rhythmicContrast: 0.5086969113908708
+  rhythmicContrast: 0.2319149
 typography_spectrum: 0.7258799746632576
 layout_spectrum: 0.09148936
 name: SmartTax
