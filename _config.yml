@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
 color:
   saturation: 0.693617
   brandStrength: 1
-  lightness: 0.9680851
+  rhythmicContrast: 0.2319149
   brandColors:
     - '#058441'
     - '#FEC327'
     - '#9C9413'
     - '#34751A'
     - '#7DB556'
-  rhythmicContrast: 0.2319149
+  lightness: 0.9680851
 typography_spectrum: 0.7258799746632576
-layout_spectrum: 0.09148936
+layout_spectrum: 1
 name: SmartTax
